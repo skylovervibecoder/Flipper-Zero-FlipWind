@@ -2,6 +2,8 @@
 
 **A Crosswind Calculator for Flipper Zero**
 
+![flipwind](fw.png)
+
 FlipWind is a lightweight Flipper Zero application designed to calculate the crosswind component of the wind relative to a runway heading. It helps pilots quickly estimate crosswind conditions using a simple, portable interface.
 
 ## Features
